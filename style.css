@@ -1,0 +1,18 @@
+.buttons button {
+    width: 25%;
+    color: white;
+    border-radius: 2px;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.text-white{
+    color: white;
+}
+
+.calculation-box{
+    height: fit-content;
+    width: fit-content;
+}
